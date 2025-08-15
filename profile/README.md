@@ -2,6 +2,7 @@
 
 <h1>InfraThrone — The Real War Room Bootcamp ⚔</h1>
 
+
 Where <strong>Prod goes down, and you rise up</strong>.  
 Hands-on, high-pressure DevOps &amp; SRE simulations.
 
