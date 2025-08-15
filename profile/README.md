@@ -1,10 +1,14 @@
-<img src="WhatsApp%20Image%202025-08-14%20at%2013.10.15.jpeg" width="100" align="left" />
+<p align="center">
+  <img src="WhatsApp%20Image%202025-08-14%20at%2013.10.15.jpeg" width="120" alt="InfraThrone Logo" />
+</p>
 
-<h1>InfraThrone — The Real War Room Bootcamp ⚔</h1>
+<h1 align="center">InfraThrone — The Real War Room Bootcamp ⚔</h1>
 
+<p align="center">
+  Where <strong>Prod goes down, and you rise up</strong>.<br>
+  Hands-on, high-pressure DevOps &amp; SRE simulations.
+</p>
 
-Where <strong>Prod goes down, and you rise up</strong>.  
-Hands-on, high-pressure DevOps &amp; SRE simulations.
 
 
 ---
