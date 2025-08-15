@@ -1,4 +1,4 @@
-<img src="profile/WhatsApp Image 2025-08-14 at 13.10.15.jpeg" width="120" align="left">
+<img src="WhatsApp%20Image%202025-08-14%20at%2013.10.15.jpeg" width="120" align="left">
 
 # 🚀 InfraThrone — The Real War Room Bootcamp ⚔
 
