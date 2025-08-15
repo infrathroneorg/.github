@@ -1,4 +1,5 @@
-<img src="WhatsApp%20Image%202025-08-14%20at%2013.10.15.jpeg" width="120" align="left"> **<h1> InfraThrone — The Real War Room Bootcamp ⚔ </h1>**
+<img src="WhatsApp%20Image%202025-08-14%20at%2013.10.15.jpeg" width="120" align="left"> 
+**<h1> InfraThrone — The Real War Room Bootcamp ⚔ </h1>**
 
 Where **Prod goes down, and you rise up**.  
 Hands-on, high-pressure DevOps & SRE simulations.
